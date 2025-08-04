@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-- 💻 Web Backend Engineer
+- 💻 Backend Engineer
 - 📭 dowonii.dev@gmail.com
 
 ### Main Tools
